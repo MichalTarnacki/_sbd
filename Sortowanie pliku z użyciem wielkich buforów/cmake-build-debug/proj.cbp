@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="proj"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/michal/Documents/_sbd/Zadanie 1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="proj">
+				<Option output="/Users/michal/Documents/_sbd/Zadanie 1/cmake-build-debug/proj" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/michal/Documents/_sbd/Zadanie 1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 proj"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="proj/fast">
+				<Option output="/Users/michal/Documents/_sbd/Zadanie 1/cmake-build-debug/proj" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/michal/Documents/_sbd/Zadanie 1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 proj/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/michal/Documents/_sbd/Zadanie 1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/michal/Documents/_sbd/Zadanie 1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michal/Documents/_sbd/Zadanie\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/Config.h">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/FirstStage.c">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/FirstStage.h">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/GenerateFunctions.c">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/GenerateFunctions.h">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/HeapForBuffers.c">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/HeapForBuffers.h">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/HelpFunctions.c">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/HelpFunctions.h">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/QuickSortForBuffers.c">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/QuickSortForBuffers.h">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/RecordType.c">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/RecordType.h">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/Report.c">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/Report.h">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/SecondStage.c">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/SecondStage.h">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/SequentialFileAndBuffer.c">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/SequentialFileAndBuffer.h">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/StageMode.h">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/main.c">
+			<Option target="proj"/>
+		</Unit>
+		<Unit filename="/Users/michal/Documents/_sbd/Zadanie 1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

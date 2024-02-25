@@ -1,0 +1,31 @@
+open-file test set-a 0.25 set-vn 0.25 toggle-print-short insert-random 1000 remove-random  250 read-record-random 250 update-record-random-same-key 250 update-record-random-new-key 250 reorganize remove-files toggle-print-short
+
+open-file test set-a 0.25 set-vn 0.50 toggle-print-short insert-random 1000 remove-random  250 read-record-random 250 update-record-random-same-key 250 update-record-random-new-key 250 reorganize remove-files toggle-print-short
+
+open-file test set-a 0.25 set-vn 0.75 toggle-print-short insert-random 1000 remove-random  250 read-record-random 250 update-record-random-same-key 250 update-record-random-new-key 250 reorganize remove-files toggle-print-short
+
+open-file test set-a 0.25 set-vn 1 toggle-print-short insert-random 1000 remove-random  250 read-record-random 250 update-record-random-same-key 250 update-record-random-new-key 250 reorganize remove-files toggle-print-short
+
+open-file test set-a 0.50 set-vn 0.25 toggle-print-short insert-random 1000 remove-random  250 read-record-random 250 update-record-random-same-key 250 update-record-random-new-key 250 reorganize remove-files toggle-print-short
+
+open-file test set-a 0.50 set-vn 0.50 toggle-print-short insert-random 1000 remove-random  250 read-record-random 250 update-record-random-same-key 250 update-record-random-new-key 250 reorganize remove-files toggle-print-short
+
+open-file test set-a 0.50 set-vn 0.75 toggle-print-short insert-random 1000 remove-random  250 read-record-random 250 update-record-random-same-key 250 update-record-random-new-key 250 reorganize remove-files toggle-print-short
+
+open-file test set-a 0.50 set-vn 1 toggle-print-short insert-random 1000 remove-random  250 read-record-random 250 update-record-random-same-key 250 update-record-random-new-key 250 reorganize remove-files toggle-print-short
+
+open-file test set-a 0.75 set-vn 0.25 toggle-print-short insert-random 1000 remove-random  250 read-record-random 250 update-record-random-same-key 250 update-record-random-new-key 250 reorganize remove-files toggle-print-short
+
+open-file test set-a 0.75 set-vn 0.50 toggle-print-short insert-random 1000 remove-random  250 read-record-random 250 update-record-random-same-key 250 update-record-random-new-key 250 reorganize remove-files toggle-print-short
+
+open-file test set-a 0.75 set-vn 0.75 toggle-print-short insert-random 1000 remove-random  250 read-record-random 250 update-record-random-same-key 250 update-record-random-new-key 250 reorganize remove-files toggle-print-short
+
+open-file test set-a 0.75 set-vn 1 toggle-print-short insert-random 1000 remove-random  250 read-record-random 250 update-record-random-same-key 250 update-record-random-new-key 250 reorganize remove-files toggle-print-short
+
+open-file test set-a 1 set-vn 0.25 toggle-print-short insert-random 1000 remove-random  250 read-record-random 250 update-record-random-same-key 250 update-record-random-new-key 250 reorganize remove-files toggle-print-short
+
+open-file test set-a 1 set-vn 0.50 toggle-print-short insert-random 1000 remove-random  250 read-record-random 250 update-record-random-same-key 250 update-record-random-new-key 250 reorganize remove-files toggle-print-short
+
+open-file test set-a 1 set-vn 0.75 toggle-print-short insert-random 1000 remove-random  250 read-record-random 250 update-record-random-same-key 250 update-record-random-new-key 250 reorganize remove-files toggle-print-short
+
+open-file test set-a 1 set-vn 1 toggle-print-short insert-random 1000 remove-random  250 read-record-random 250 update-record-random-same-key 250 update-record-random-new-key 250 reorganize remove-files toggle-print-short

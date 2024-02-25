@@ -1,0 +1,3 @@
+/Users/michal/Documents/_sbd/Zadanie 1/cmake-build-debug/CMakeFiles/proj.dir
+/Users/michal/Documents/_sbd/Zadanie 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/michal/Documents/_sbd/Zadanie 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
